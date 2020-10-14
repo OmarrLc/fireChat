@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firechat-6b643": {
+      "hosting": {
+        "fireChat": [
+          "firechat-6b643"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firechat-6b643"
+  }
+}

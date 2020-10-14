@@ -1,0 +1,25 @@
+[debug] [2020-10-14T17:42:05.615Z] ----------------------------------------------------------------------
+[debug] [2020-10-14T17:42:05.628Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Omar Lopez\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-10-14T17:42:05.629Z] CLI Version:   8.12.1
+[debug] [2020-10-14T17:42:05.629Z] Platform:      win32
+[debug] [2020-10-14T17:42:05.630Z] Node Version:  v12.14.1
+[debug] [2020-10-14T17:42:07.080Z] Time:          Wed Oct 14 2020 11:42:05 GMT-0600 (GMT-06:00)
+[debug] [2020-10-14T17:42:07.081Z] ----------------------------------------------------------------------
+[debug] [2020-10-14T17:42:07.081Z] 
+[debug] [2020-10-14T17:42:07.569Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-10-14T17:42:07.573Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Omar Lopez\Documents\Cursos\ProyectosAngular\fireChat
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
